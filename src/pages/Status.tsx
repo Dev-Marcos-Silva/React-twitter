@@ -9,7 +9,7 @@ export default function Status(){
   const [newAnswer, setNewAnswer] = useState('')
   const [answers, setAnswers] = useState(
  [
-  'Comcordo',
+  'Concordo',
   'Olha, faz sentido ',
   'Parabens pelo progresso' 
  ]
